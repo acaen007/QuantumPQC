@@ -1,2 +1,4 @@
 virtualenv/
 .ipynb_checkpoints/
+newenv/
+lib/
