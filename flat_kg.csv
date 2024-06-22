@@ -1,0 +1,14 @@
+node name,http://foo.com/Canada,http://dbpedia.org/ontology/capital,http://foo.com/Ottawa,http://dbpedia.org/ontology/isCityOf,http://foo.com/Shervin,http://xmlns.com/foaf/0.1/knows,http://foo.com/Michel,http://dbpedia.org/ontology/birthPlace,http://foo.com/Winippeg,http://foo.com/IDS,http://dbpedia.org/ontology/location,http://foo.com/Maastricht,http://dbpedia.org/ontology/foundedBy,type
+http://foo.com/Canada,0,1,0,0,0,0,0,0,0,0,0,0,0,http://dbpedia.org/ontology/Country
+http://dbpedia.org/ontology/capital,0,0,1,0,0,0,0,0,0,0,0,0,0,Predicate
+http://foo.com/Ottawa,0,0,0,1,0,0,0,0,0,0,0,0,0,http://dbpedia.org/ontology/City
+http://dbpedia.org/ontology/isCityOf,1,0,0,0,0,0,0,0,0,0,0,0,0,Predicate
+http://foo.com/Shervin,0,0,0,0,0,1,0,1,0,0,0,0,0,http://schema.org/Person
+http://xmlns.com/foaf/0.1/knows,0,0,0,0,0,0,1,0,0,0,0,0,0,Predicate
+http://foo.com/Michel,0,0,0,0,0,0,0,1,0,0,0,0,0,http://schema.org/Person
+http://dbpedia.org/ontology/birthPlace,0,0,1,0,0,0,0,0,1,0,0,0,0,Predicate
+http://foo.com/Winippeg,0,0,0,1,0,0,0,0,0,0,0,0,0,http://dbpedia.org/ontology/City
+http://foo.com/IDS,0,0,0,0,0,0,0,0,0,0,1,0,1,http://dbpedia.org/ontology/Organisation
+http://dbpedia.org/ontology/location,0,0,0,0,0,0,0,0,0,0,0,1,0,Predicate
+http://foo.com/Maastricht,0,0,0,0,0,0,0,0,0,0,0,0,0,http://dbpedia.org/ontology/City
+http://dbpedia.org/ontology/foundedBy,0,0,0,0,0,0,1,0,0,0,0,0,0,Predicate
